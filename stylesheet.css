@@ -1,0 +1,43 @@
+ .jumbotron
+ {
+   background-image:url("jt_back.jpg");3
+   background-image:opacita:0.1;
+   padding-top:15px; 
+ }
+
+ .myfooter
+ {
+   background-color:#2F2F2F;
+   height:300px;
+   color:white;
+ 
+ }
+ 
+ .footerheading
+ {
+   text-align:center;
+   color:white;
+   padding-bottom:30px;
+ }
+ 
+  .footersubheading
+ {
+   text-align:center;
+ }
+ 
+ 
+ 
+ .footer
+ {
+   text-align:right;
+   padding-top:40px;
+   font-size:9pt;
+   margin-right:20px;
+   
+ }
+ 
+ .footerulist
+ {
+   list-style-type:none;
+ }
+ 
